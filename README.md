@@ -2,7 +2,7 @@
 
 Prüfe, ob ein Minecraft-Server online ist: Version, Spieler, MOTD, Server-Icon und Antwortzeit. Mit SRV-Auflösung, Port-Check und Status-Badge zum Einbetten.
 
-**Online nutzen:** [Minecraft Server Status Checker](https://ventrohosting.com/tools/minecraft-server-status) · Demo: https://dannytheone.github.io/minecraft-server-status/
+**Online nutzen:** [Minecraft Server Status Checker](https://ventrohosting.com/tools/minecraft-server-status) · Demo: https://ventrohosting.github.io/minecraft-server-status/
 
 ## Funktionen
 
